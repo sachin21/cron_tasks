@@ -1,0 +1,2 @@
+*/30 * * * * /usr/local/bin/kancolle_crawl
+0 */1 * * * curl http://tom-bot-for-slack.herokuapp.com
