@@ -1,6 +1,6 @@
 ### instalition
-```
-mkdir /usr/local/etc/cron
-cp cron_task /usr/local/etc/cron
-cp time_signal /usr/local/etc/cron
+```sh
+crontab cron_task
+or
+crontab time_signal
 ```
