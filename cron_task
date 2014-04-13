@@ -1,3 +1,4 @@
 */15 * * * * /usr/local/bin/kancolle_crawl
+*/15 * * * * /usr/local/bin/railgun_crawl
 */50 * * * * curl http://tom-bot-for-slack.herokuapp.com
 */50 * * * * curl http://sachin21.herokuapp.com
