@@ -1,7 +1,7 @@
-*/10 * * * * /usr/local/bin/kancolle_crawl
-*/10 * * * * /usr/local/bin/railgun_crawl
-*/10 * * * * /usr/local/bin/miku_crawl
-*/10 * * * * /usr/local/bin/idol_master_crawl
+*/5 * * * * /usr/local/bin/kancolle_crawl
+*/5 * * * * /usr/local/bin/railgun_crawl
+*/5 * * * * /usr/local/bin/miku_crawl
+*/5 * * * * /usr/local/bin/idol_master_crawl
 
 */50 * * * * curl http://tom-bot-for-slack.herokuapp.com
 */50 * * * * curl http://sachin21.herokuapp.com
