@@ -1,3 +1,0 @@
-#!/usr/local/bin/zsh
-
-/Users/sachin21dev/.rbenv/shims/ruby /usr/local/bin/crawl ".img-thumbnail" "http://yomepic.net/とある科学の超電磁砲" /Users/sachin21dev/Pictures/Railgun

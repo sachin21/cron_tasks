@@ -1,3 +1,0 @@
-#!/usr/local/bin/zsh
-
-/Users/sachin21dev/.rbenv/shims/ruby /usr/local/bin/crawl ".img-thumbnail" "http://yomepic.net/アイドルマスター" /Users/sachin21dev/Pictures/Idol_master

@@ -1,3 +1,0 @@
-#!/usr/local/bin/zsh
-
-/Users/sachin21dev/.rbenv/shims/ruby /usr/local/bin/crawl ".img-thumbnail" "http://yomepic.net/初音ミク" /Users/sachin21dev/Pictures/Miku
