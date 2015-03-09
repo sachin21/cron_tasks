@@ -1,4 +1,2 @@
 */50 * * * * curl http://tom-bot-for-slack.herokuapp.com
-*/50 * * * * curl http://sachin21.info
 */50 * * * * curl http://profile.sachin21.info
-*/50 * * * * curl http://diary.sachin21.info
