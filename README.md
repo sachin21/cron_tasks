@@ -1,4 +1,4 @@
-### instalition
+### installation
 ```sh
 crontab cron_task
 or
