@@ -1,0 +1,1 @@
+ * * * * * echo "WAN IP Address is $(curl --max-time 2 -s http://whatismyip.akamai.com/)" > mail bmxpapi@gmail.com
