@@ -2,4 +2,3 @@
 */25 * * * * curl http://tom-bot-for-slack.herokuapp.com
 */25 * * * * curl http://papi-bot.herokuapp.com
 */25 * * * * curl http://sachin21.herokuapp.com
-*/25 * * * * cd "$HOME/Projects/github.com/sachin21/nuko" && ctags -R &> /dev/null
