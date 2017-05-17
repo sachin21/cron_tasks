@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chronic (0.10.2)
+    whenever (0.9.7)
+      chronic (>= 0.6.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  whenever
+
+BUNDLED WITH
+   1.14.6
